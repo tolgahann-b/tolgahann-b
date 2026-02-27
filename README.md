@@ -18,4 +18,4 @@ Amasya Üniversitesi'nde Bilgisayar Programcılığı son sınıf öğrencisiyim
 * 💻 **Masaüstü Otomasyon Uygulaması** - C# ve SQL ile geliştirilen, nesne yönelimli veritabanı yönetim sistemi.
 
 ### 📫 Bana Ulaşın
-* 📧 **E-Posta:** tolgahanbulbul66@gmail.com
+* 📧 **E-Posta:** dev.tolgahanbulbul@gmail.com
