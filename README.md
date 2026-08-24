@@ -1,21 +1,22 @@
 # Merhaba, Ben Tolgahan! 👋
 
-👨‍💻 **Bilgisayar Programcısı & Jr. Yazılım Geliştirici**
+👨‍💻 **Bilgisayar Programcısı & Yazılım Geliştirici**
 
-Amasya Üniversitesi'nde Bilgisayar Programcılığı son sınıf öğrencisiyim. Front-End ve Back-End teknolojilerini birleştirerek uçtan uca dinamik, kurumsal web projeleri ve masaüstü yazılımları geliştiriyorum. 
+Amasya Üniversitesi Bilgisayar Programcılığı son sınıf öğrencisiyim. Geliştirme serüvenimde Front-End ve Back-End teknolojilerini harmanlayarak dinamik kurumsal projeler üretiyor; aynı zamanda **Python ile görüntü işleme (OpenCV) ve algoritma tasarımı** üzerine odaklanarak sistem mimarileri kuruyorum.
 
-Şu anda **1 aylık zorunlu yaz stajımı** yapabileceğim, donanımımı ve yazılım tecrübemi sahada kanıtlayabileceğim aktif fırsatları değerlendiriyorum! 🚀
-
-### 🛠️ Teknik Bilgilerim
-* **Back-End:** C#, PHP, Python
+### 🛠️ Teknik Yetkinliklerim
+* **Programlama & AR-GE:** Python (OpenCV, NumPy), C# (OOP), PHP
+* **Veritabanı Mimarisi:** MS SQL Server, MySQL, İlişkisel Veri Yönetimi
 * **Front-End:** HTML5, CSS3, Bootstrap
-* **Veritabanı:** MS SQL Server, MySQL, Access
-* **Araçlar & Sistem:** Visual Studio, VS Code, Git/GitHub, Sunucu Yönetimi
+* **Araçlar & Sistem:** Git/GitHub, Visual Studio, VS Code, Sunucu & Domain Yönetimi, Hata Ayıklama (Troubleshooting)
 
-### 📈 Öne Çıkan Projelerim
-* 🌐 **[Alaçam Gül Oto Kurtarma](https://alacamgulotokurtarma.com/)** - Bootstrap ve HTML/CSS ile sıfırdan tasarlanıp canlıya alınan mobil uyumlu kurumsal işletme sitesi.
-* 🛒 **Dinamik E-Ticaret Altyapısı** - PHP ve MySQL kullanılarak geliştirilen, admin panelli ve sepet yönetimli e-ticaret mimarisi (WIP).
-* 💻 **Masaüstü Otomasyon Uygulaması** - C# ve SQL ile geliştirilen, nesne yönelimli veritabanı yönetim sistemi.
+### 🚀 Öne Çıkan Projelerim
+
+* 🎯 **[Otonom Nesne/Hareket Takip Sistemi (Python & OpenCV)](#)** - İnsansız sistemler ve kamera entegrasyonları için geliştirilmiş, anlık görüntü üzerinden hareket algılama ve nesne tespiti yapan algoritma altyapısı.
+* 🌐 **[Alaçam Gül Oto Kurtarma](https://alacamgulotokurtarma.com/)** - Uçtan uca (tasarım, kodlama, hosting) tasarlanıp canlıya alınan, mobil uyumlu ve Bootstrap tabanlı kurumsal işletme projesi.
+* 🛒 **[Dinamik E-Ticaret Altyapısı](#)** - PHP ve MySQL kullanılarak sıfırdan inşa edilmiş; güvenli oturum (session) yönetimi, sepet mimarisi ve dinamik admin paneli içeren full-stack e-ticaret sistemi.
+* 💻 **[Kütüphane Yönetim Otomasyonu](#)** - C# (OOP) ve MS SQL Server entegrasyonu ile geliştirilmiş, veri akışını ve stok yönetimini (CRUD) dijitalleştiren masaüstü otomasyon yazılımı.
 
 ### 📫 Bana Ulaşın
 * 📧 **E-Posta:** dev.tolgahanbulbul@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/tolgahan-bulbul](#)
